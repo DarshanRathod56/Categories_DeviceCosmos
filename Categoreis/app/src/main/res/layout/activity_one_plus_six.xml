@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OnePlusSix">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:background="#5263BF"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:text=" OnePlus 6 - The Costliest \n Oneplus Device."
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="March 25, 2018"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="15dp"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/thirtysixa"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="We all have seen a lot of rumors and leaks about the upcoming flagship OnePlus6. The Phone will be launched in month of April. The previous Oneplus 5T is out of stoke in US Market too,Which hints towards the early release rather then the june."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Some New changes made in Oneplus 6"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_navigate_next"
+        android:text="The Notch"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="Yes,Oneplus 6 might come with a Notch Similar to the iphoneX which will provide better aspect ratio. Oneplus phones are always inspired from the Oppo R series phones and the latest R series phone is also coming with a Notch too. "
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hardware"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="The phone will have Snapdragon 845 clocked at 2.7 GHz with 6 GB of RAM,To give us a better gaming Experience. The internal Storage will be of 128 GB and 3450 mAh battery."
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/thirtysixb"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Camera"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="Last year, Oneplus introduces the dual rear camera for Potrait mode photos and Optical zoom. Similarly the Oneplus 6 will also have a dual camera setup of(20MP+20MP) and both will have a f/1.7 apperture."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Software"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="Phone will come with Android 8.1 based Oxygen OS."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Price"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="This Cost of the oneplus phones are always the value of Money Phone. They provide flagship grade Specifications at a compareably lower price then the other brands kike Samsung, Google and Apple."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Reportedly, oneplus 6 will come with a Approx price of Rs. 40,000.\n\n\n"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+</LinearLayout>
+</ScrollView>

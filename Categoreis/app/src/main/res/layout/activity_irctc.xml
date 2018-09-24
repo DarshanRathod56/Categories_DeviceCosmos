@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Irctc">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:background="#5263BF"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:text="Book Upto 12 Train tickets in a month."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="February 18, 2018"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="15dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/t31"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="Now you can book 12 train tickets in a month earlier the it was limited to 6 booking per UserID. But there is a catch?"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="To avail this service, you need to link your Aadhar No with your IRCTC Account. And the booking facility for upto 6 ticket can be done without adding Aadhar."
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="How to link AAdhar with your IRCTC Account?"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="Here, Is the steps to be followed:"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="• Login using your IRCTC User ID and Password on www.irctc.co.in. \n\n• Click “Aadhaar KYC” link under “My Profile” menu \n\n• Enter Your Aadhaar Number and Click on Send OTP button. OTP would be sent by Aadhaar System (UIDAI) on the mobile number registered with Aadhaar. Please keep your Aadhaar registered mobile number ready. \n\n• Enter the OTP and click on Verify button. \n\n• Click on Submit button to verify KYC details."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="Now you can book 12 train tickets in a month earlier the it was limited to 6 booking per UserID. But there is a catch?"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text="After submission,your AADHAAR is verified."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:textStyle="bold"
+            android:text="One More thing, In any Booking Atleast One Passenger also should be Aaadhar Verified (After 6th Transaction)"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="So, Add verified Passengers to your master before Booking. \nHere, is the steps to add and a verify the passenger with Aadhar No.:"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="• Click “Master List” link under “My Profile” menu.\n\n• While adding new passengers in the Master List, provide correct and complete details i.e. Name, Date of Birth, Gender and Aadhaar number as mentioned in the Aadhaar Card.\n\n• Click on “Submit” button to Add and verify Aadhaar details.\n\n• Passengers will be added in the Master List with Verification Status as “Pending”. No OTP will be sent in case of passenger Aadhaar verification.\n\n• To check the verification status of Aadhaar details, please click on “Click here to check pending Aadhaar verification status” option provided.\n\n• Verification status of passengers who have been verified with their Aadhaar details successfully will be “Verified” and for failed verification status be “Not Verified”.\n\n• Passengers already available in the Master list without Aadhaar verification can also be verified by using “Edit” option and submitting complete details including Aadhaar number."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="\t\tTo book more than 6 tickets (upto 12 tickets in a month), select at least One (1) Aadhaar verified passenger from Master List and add to the Passenger list while booking ticket. If you do not have Aadhaar verified passenger in Master List before making 7th ticket and onward in a month, you will be not allowed to book extra tickets.\n"
+            />
+
+    </LinearLayout>
+
+</ScrollView>

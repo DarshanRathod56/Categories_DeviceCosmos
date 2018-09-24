@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".OppoFSeven">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:background="#5263BF"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:text=" Oppo F7- The AI-Powered \n Premium looking Phone"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="March 26, 2018"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="15dp"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/thirtyseven_a"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="Finally,Oppo f7 launches in India on 26th March.This is a perfect phone for a selfie lover.Its AI-powerSelfie and and HDR sensor camera is all you need for a perfect selfie."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Major Highlights"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_navigate_next"
+        android:text="25 MP Front camera"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="15dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_navigate_next"
+        android:text="Glossy design"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="3dp"
+        android:textColor="#000000"
+        android:textSize="15dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_navigate_next"
+        android:text="AR stickers"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="3dp"
+        android:textColor="#000000"
+        android:textSize="15dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_navigate_next"
+        android:text="16 MP Rear camera"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="3dp"
+        android:textColor="#000000"
+        android:textSize="15dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_navigate_next"
+        android:text="Super full Screen with 88% Body to screen Ratio"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="3dp"
+        android:textColor="#000000"
+        android:textSize="15dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:drawableLeft="@drawable/ic_navigate_next"
+        android:text="Face Unlock"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="3dp"
+        android:textColor="#000000"
+        android:textSize="15dp"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/thirtysevenb"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Design"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="The phone comes with a beautiful glossy finish which gives you a premium look and feel. Its Super full screen display features 2280X1080 Pixel resolution .It is a 7.8 mm thin phine with 6.23 inch display."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Hardware"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="Phone comes with Mediatek P60 processor and 4GB/6GB RAM Varient and ARM Mali-G72 GPU. In india two storage vaient are available 64GB or 126 GB."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Camera"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="The Major highlight of the phone is its Camera, The 25 MP selfie camera is AI-powered and comes with HDR sensor which will let you click nice selfies in low light too. The AI beauty Technology 2.0 is also implemented in the camera which will customize you selfie to make is more beautiful. The Rear camera is of 16 MP and it has AI scene Recognition feature to focus on object,optimize the brightness and Contrast to click spactacular photos with the help of F7 PhotoGraphy Algorithms."
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/thirtysevenc"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="AR Sticker"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="the Ar sticker is also there to click and share the personaloised emojis."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Software"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="Phone comes with oppo's custom ColorOS 5.0 based on Android 8.1."
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/thirtysevend"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Price and Availability"
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="The phone will be available on flipkart and other leading stores too.
+    \n1. Its (4GB +64GB) varient is Priced at RS.21,990. Available in Two Colour Option REd and Silver.
+    \n2. And the (6GB+128GB) varient is Priced at RS.26,990. Available in Three colour Option Red,Silver and Black Diaomond.\n\n\n"
+        />
+</LinearLayout>
+
+</ScrollView>

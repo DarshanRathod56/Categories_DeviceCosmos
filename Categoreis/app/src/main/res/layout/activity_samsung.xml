@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Samsung">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:background="#5263BF"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:text="What is wrong with Samsung Phones?"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="January 07, 2018"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="15dp"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/t27e"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="Samsung is one of the most popular smartphone brand. In Every samsung phone their is few things that's really frustating for samsung mobile users.\n\nHere, These are the things that we hate about samsung smartphone."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:textStyle="bold"
+        android:text="• Samsung UI"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/t27d"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="In the recent year, samsung UI improved a lot, the new samsung experince is really simple and more arranged but still it start lagging in just few months."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:textStyle="bold"
+        android:text="• Galaxy App Store"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/t27c"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="we all are happy with 'Play store' and we don't need another app store if it hasn't anything new."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:textStyle="bold"
+        android:text="• Unuseful Preinstalled Apps"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/t27b"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="Samsung phone has a lot of pre-installed apps among them few are useful and a lot of them are not useful for us like samsung internet, Flipboard, S health, S Voices. And we can't even Uninstall them."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:textStyle="bold"
+        android:text="• Delayed OS upgrade"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/t27a"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="It dosen't matter you have a Ultra Premium phone or a Mid range device you won't get the OS Upgrade timely. last years flagship S8 and Note8 still on nougat and the Oreo is still is in testing for the both the phones. And your device will get only two Major OS Upgrade, Which is not good for a person who paid around RS. 65000 fo a premium phone.\n\nwe hope samsung will fix these issues to give us a great experience with upcoming smartphone like A8plus, S9 and S9 plus.\n"
+        />
+</LinearLayout>
+</ScrollView>

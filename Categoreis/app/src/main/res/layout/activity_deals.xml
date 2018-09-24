@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Deals">
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30dp"
+        android:background="#5263BF"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:text="Best Deals on Flipkart and Amazon"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="January 20, 2018"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="15dp"
+        />
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:src="@drawable/t29"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="The leading E-commerce platform Flipkart and Amazon's Sale season has started. Both the websites are offering a huge discounts and other offers (i.e exchange Offer, EMI options)to attract more and more consumers. 'The Republic Day sale' of flipkart and 'The Great indian sale' of amazon is starting from 21st jan and will end on 24th jan. This will be a right time for consumers to buy their wishlisted item at affordable price."
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Here we are comparing some of the best smartphone deals avilable on both the websites."
+        android:textStyle="bold"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="15dp"
+        android:textColor="#000000"
+        android:textSize="20dp"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="List according to price and Rating:\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id1"
+        android:onClick="clicked1"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="1. Samsung Galaxy S7 Edge (Gold Platinum, 32 GB) "
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 35,900\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id2"
+        android:onClick="clicked2"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="2. Oneplus 5T(6 GB)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 32,999\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id3"
+        android:onClick="clicked3"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="3. Samsung Galaxy A5 2017 (Gold, 3GB/32GB)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 17,990\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id4"
+        android:onClick="clicked4"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="4. Nokia 6 (Matte Black, 32GB)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 14,999\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id5"
+        android:onClick="clicked5"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="5. Honor 9 Lite (Midnight Black, 32 GB)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 13,999\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id6"
+        android:onClick="clicked6"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="6. Moto G5s Plus (Lunar Grey, 64GB)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 13,999\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id7"
+        android:onClick="clicked7"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="7. Mi A1 (Gold, 64 GB)(4 GB RAM)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 13,999\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id8"
+        android:onClick="clicked8"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="8. Honor 7X (Blue, 4GB RAM + 32GB memory)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS Rs 12,999\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id9"
+        android:onClick="clicked9"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="9. Samsung Galaxy On Nxt (Gold, 64 GB)(3 GB RAM)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 12,900\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id10"
+        android:onClick="clicked10"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="10. Nokia 5 (Matte Black ,16GB) (3GB RAM)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 11,890\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id11"
+        android:onClick="clicked11"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="11. Moto G5 Plus (32GB, Fine Gold)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 10,999\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id12"
+        android:onClick="clicked12"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="12. Redmi Note 4 (Gold, 64 GB)(4 GB RAM)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 10,999\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id13"
+        android:onClick="clicked13"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="13. Lenovo K8 Plus (Venom Black, 32 GB)(3 GB RAM)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 9,999\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id14"
+        android:onClick="clicked14"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="14. Redmi Y1 (Gold, 32GB)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 8,999\n"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/id15"
+        android:onClick="clicked15"
+        android:textColor="#FF0000"
+        android:textSize="15dp"
+        android:text="15. Redmi 4 (Gold, 32GB)"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="10dp"
+        android:textColor="#000000"
+        android:textSize="17dp"
+        android:text="\tRS 8,499\n"
+        />
+</LinearLayout>
+
+</ScrollView>

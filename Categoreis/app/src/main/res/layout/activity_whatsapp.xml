@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Whatsapp">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:background="#5263BF"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:text="New whatsapp features"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="March 14, 2018"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="15dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/thirtytwoa"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="Whatsapp is the most popular instant messaging service in the world and new features are being added to improve its usability. location sharing, Deleting the sent messages are much required features for the users. Recent update brings some more new Features for both Android and ios users too."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Group Discussion"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/thirtytwob"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="Now you can add details and information about a group. And these detail will help the users to know the details about group before joining the group too. Adding group description is not limited to admins only but any group member can add and update description."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Group Participant Search"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="After incresing the limit of group participant to 256 it was quite difficult to find any specific person from the list of participant. But now you can search any specific participant by their Name or by their Number."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Switching between voice call and video call"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="Now you can switch between video to voice,voice to video call easily during the call. just by tapping the video icon on the call screen.\nVoice to video call"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/thirtytwoc"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="During voice call if you tap the video icon then other user will get a notification of switch to video and that user need to accepts the request to switch to video call."
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:src="@drawable/thirtytwod"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="During video call if both the user tap the video icon then the call will be switched too voice mode.
+To use these features both user need to have latest version of whatsapp.\n"
+            />
+    </LinearLayout>
+</ScrollView>

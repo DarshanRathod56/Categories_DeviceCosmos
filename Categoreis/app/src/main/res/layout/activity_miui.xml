@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MIUI">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:background="#5263BF"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:text=" MIUI 9.5- When your \n Xiaomi phone will get this?"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="March 20, 2018"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="15dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/thirtyfour"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="finally,The MIUI 9.5 is here and soon it will available for all supported devices.\n
+In january Xiaomi announces MIUI 9, And the update released to more then 40 devices. In the list there are few phone of year 2012 too.MiUi 9 was based on Android Nougat 7.0 with some custom features and xiaomi apps. Now Xiomi is bringing MIUI 9.5."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="what is new in MIUI 9.5?"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/thirtyfoura"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="MIUI 9.5 is also based on Android nougat with a lot of customization some new features like"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="• Quick search Options \n• Mi Mover-To Share apps \n• Optimized UI and Startup page\n• Quick Replies \n• Improved and redesigned Notification Center \n• Screen Recording with sound\n• And Lot of More Changes and fixes too."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="List of Devices which will get MIUI 9.5"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="Xiaomi planned the release of in 3 phases."
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Last March"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="• Redmi Note 3 \n• Redmi Note 4 \n• Mi Max \n• Redmi Note 4X \n• Mi Max prime \n• Redmi 3S \n• Redmi 4 PRIME \n• Redmi 4 PRIME \n• Redmi 4A"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Early April"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="• Redmi NOTE 5 \n• Redni Y1 lite \n• Redmi 5A \n• Mi max 2 \n• Mi 5 \n• Mi 6"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Mid April"
+            android:textStyle="bold"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="20dp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="• Redmi Note 2 \n• Mi 5S \n• Mi MIX \n• MI Note 3 \n• Mi 5S Plus \n• Redmi 3 \n• Redmi 4 \n• Mi 3 \n• Mi 4"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="These are the scheduled date and they update may get delayed too.If you got the update let us know in comments.\n\n\n"
+            />
+
+
+    </LinearLayout>
+
+</ScrollView>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".GoogleActivity">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30dp"
+            android:background="#5263BF"
+            android:textStyle="bold"
+            android:textColor="#FFFFFF"
+            android:text="Google play Instant-Easiest Way to TRY New Games and Apps"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="March 19, 2018"
+            android:layout_marginLeft="10dp"
+            android:layout_marginTop="15dp"
+            android:textColor="#000000"
+            android:textSize="15dp"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="15dp"
+            android:src="@drawable/thirtythreea"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="For a Game lover, Trying new game is not a easy task. first you need to install the game then additional files (in case of games like asphalt etc.) and that is a time consuming process too. SO, Google made this easy for them by making the Game discovery more easier and faster.By removing the hurdle of downloading game before trying.
+\t\tGoogle introduces Play instant which will help the Gamelovers to Try new games without Downloading them. The newest and fastest way to try new games."
+            />
+<com.google.android.youtube.player.YouTubePlayerView
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/text_view_youtube"></com.google.android.youtube.player.YouTubePlayerView>
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="10dp"
+            android:textColor="#000000"
+            android:textSize="17dp"
+            android:text="So Now on your android device you can try new apps without downloading them, and if you like then you can install it. currently Available games for try-\nhttps://goo.gl/MxiZWL"
+            />
+        <ImageView
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:layout_marginTop="5dp"
+            android:src="@drawable/thirtythreeb"
+            />
+
+    </LinearLayout>
+
+
+</ScrollView>
